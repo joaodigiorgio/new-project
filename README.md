@@ -19,7 +19,7 @@ Exclusive and free program, promoted by Rocketseat for teaching WEB technologies
 <br>
 
 <p align="center">
-  <img alt="DevLinks project" src=".github/preview.jpg" width="100%">
+  <img alt="DevLinks project" src="https://i.imgur.com/I5j6mRz.jpg" width="100%">
 </p>
 
 ## 🚀 Technologies
